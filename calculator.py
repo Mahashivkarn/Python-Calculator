@@ -18,4 +18,4 @@ match calc:
             print("Cannot be divisabe by 0")
             
     case _:
-        print("Invalid Operator")   
+        print("Invalid Operator.")  
