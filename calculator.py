@@ -13,7 +13,7 @@ match calc:
         print("Multiplaction",a*b)
     case"/":
         if(b!=0):
-            print("Division",a/b)
+            print("Division : ",a/b)
         else:
             print("Cannot be divisabe by 0")
             
